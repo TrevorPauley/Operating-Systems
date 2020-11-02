@@ -1,0 +1,1 @@
+One function of the operating system is Memory Management. Memory management is the colelction of words or bytes, each of which have their own address. An OS will keep track of memory, what part is used by what address and allocates memory when processes requests it. It will also re-accocate the memory when a process ends or no longer needs the memory. 
